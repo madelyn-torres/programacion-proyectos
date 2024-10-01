@@ -1,0 +1,16 @@
+1
+Laptop
+Computadoras
+5
+2000.0
+160.0
+2160.0
+
+2
+Impresora 
+Impresoras
+5
+800.0
+64.0
+864.0
+
